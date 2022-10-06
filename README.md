@@ -1,2 +1,4 @@
 # proxynotshellchecker
-## python proxynotshell-checker.py
+```
+python proxynotshell-checker.py
+```
